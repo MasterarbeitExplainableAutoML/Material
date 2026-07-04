@@ -7,7 +7,7 @@ The project investigates how explainability can be integrated into Automated Mac
 
 The thesis compares classical and AutoML-based modelling approaches in two banking-related use cases:
 
-1. **PD-12m prediction**  
+1. **PD prediction**  
    Prediction of a 12-month probability of default for loan customers.
 
 2. **Bank marketing prediction**  
