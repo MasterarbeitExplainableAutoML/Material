@@ -8,7 +8,7 @@ The project investigates how explainability can be integrated into Automated Mac
 The thesis compares classical and AutoML-based modelling approaches in two banking-related use cases:
 
 1. **PD prediction**  
-   Prediction of a 12-month probability of default for loan customers.
+   Prediction of a probability of default for loan customers.
 
 2. **Bank marketing prediction**  
    Prediction of whether a customer subscribes to a term deposit after a marketing campaign.
@@ -46,7 +46,7 @@ The repository contains the following material:
 - PD-12m EDA
 - Marketing EDA
 
-### PD-12m Use Case
+### PD Use Case
 
 - Level 0: Weight of Evidence (WoE) transformation and Logistic Regression
 - AutoGluon Levels 1–4
