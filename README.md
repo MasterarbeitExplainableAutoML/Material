@@ -26,6 +26,8 @@ The implementation includes:
 - SHAP and LIME explanations (!pip install shap lime -q)
 - additional scorecard-like, calibration, stability, and governance-oriented outputs (see notebooks)
 
+Important: H2O AutoML requires Java. In the development environment used for this thesis (Google Colab), Java was already available and therefore no additional Java installation step was included in the notebooks. If the notebooks are executed in a different environment, Java may need to be installed separately before running the H2O notebooks.
+
 ## Explainability Levels
 
 The notebooks follow the explainability structure used in the thesis:
