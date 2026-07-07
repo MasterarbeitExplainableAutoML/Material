@@ -2,7 +2,7 @@
 
 This repository contains the code for the master thesis **"From Black Box to Trusted ML: Explainable AutoML in Banking"**.
 
-The thesis investigates how explainability can be integrated into AutoML workflows in two banking-related use cases: **probability of default prediction** and **bank marketing**. H2O AutoML and AutoGluon are compared with a Logistic Regression benchmark. The evaluation considers both predictive performance and a human-centered assessment of interpretability, trust, acceptance, and regulatory plausibility. :contentReference[oaicite:0]{index=0}
+The thesis investigates how explainability can be integrated into AutoML workflows in two banking-related use cases: **probability of default prediction** and **bank marketing**. H2O AutoML and AutoGluon are compared with a Logistic Regression benchmark. The evaluation considers both predictive performance and a human-centered assessment of interpretability, trust, acceptance, and regulatory plausibility.
 
 ## Use Cases
 
