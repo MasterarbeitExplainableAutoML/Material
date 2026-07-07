@@ -16,7 +16,7 @@ The repository contains notebooks for two use cases:
    A marketing campaign use case based on the Bank Marketing dataset.  
    The objective is to rank customers according to their predicted likelihood of subscribing to a term deposit and to support campaign planning through gains, lift, and budget-oriented evaluation.
 
-## Models and Frameworks
+## Frameworks
 
 The implementation includes:
 
