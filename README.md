@@ -43,3 +43,21 @@ The notebooks follow the explainability structure used in the thesis:
 Dataset for the PD-Use Case: https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 Dataset for the Marketing-Use Case: https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+## Recommended Notebook Order
+
+The notebooks should be executed in the following order:
+
+1. EDA notebooks
+
+2. PD use case
+   - PD Level 0: Logistic Regression baseline with WoE preprocessing
+   - PD AutoGluon Levels 1–4
+   - PD H2O Levels 1–4
+
+3. Marketing use case
+   - Marketing Level 0: Preprocessing and Logistic Regression baseline
+   - Marketing AutoGluon Levels 1–4
+   - Marketing H2O Levels 1–4
+
+4. Questionnaire evaluation
