@@ -16,7 +16,7 @@ The repository contains notebooks for two use cases:
    A marketing campaign use case based on the Bank Marketing dataset.  
    The objective is to rank customers according to their predicted likelihood of subscribing to a term deposit and to support campaign planning through gains, lift, and budget-oriented evaluation.
 
-## Frameworks
+## Implementation
 
 The implementation includes:
 
@@ -24,8 +24,8 @@ The implementation includes:
 - H2O AutoML models (!pip install -U h2o)
 - AutoGluon Tabular models (!pip install autogluon.tabular[all] and from autogluon.tabular import TabularPredictor)
 - SHAP and LIME explanations (!pip install shap lime -q)
-- additional scorecard-like, calibration, stability, and governance-oriented outputs (see notebooks)
-
+- Additional packages are required for metrics, visualization, and evaluation outputs (see notebooks)
+  
 Important: H2O AutoML requires Java. In the development environment used for this thesis (Google Colab), Java was already available and therefore no additional Java installation step was included in the notebooks. If the notebooks are executed in a different environment, Java may need to be installed separately before running the H2O notebooks.
 
 ## Explainability Levels
